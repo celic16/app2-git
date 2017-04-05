@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>28</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles,kenburns</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/gentle/</ImageTemplate>
+            <ImageTemplateName>Gentle</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/DAM/2do PARCIAL/aplicaciones/app2/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/DAM/2do PARCIAL/aplicaciones/app2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>EB Garamond</TemplateFont>
+            <TemplateName>gentle</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/2do PARCIAL/aplicaciones/app2/imagenes/original.jpg</url>
+                <title>original</title>
+                <filesize>103740</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2do PARCIAL/aplicaciones/app2/imagenes/telefonía-celular.jpg</url>
+                <title>telefonía-celular</title>
+                <filesize>15083</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2do PARCIAL/aplicaciones/app2/imagenes/650_1200.jpg</url>
+                <title>650_1200</title>
+                <filesize>105267</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2do PARCIAL/aplicaciones/app2/imagenes/CELULAR1.png</url>
+                <title>CELULAR1</title>
+                <filesize>217481</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2do PARCIAL/aplicaciones/app2/imagenes/CELULAR2.png</url>
+                <title>CELULAR2</title>
+                <filesize>237449</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2do PARCIAL/aplicaciones/app2/imagenes/COMPARATIVA.jpg</url>
+                <title>COMPARATIVA</title>
+                <filesize>304398</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2do PARCIAL/aplicaciones/app2/imagenes/images.jpg</url>
+                <title>images</title>
+                <filesize>8951</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2do PARCIAL/aplicaciones/app2/imagenes/MINI-White.jpg</url>
+                <title>MINI-White</title>
+                <filesize>141607</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
